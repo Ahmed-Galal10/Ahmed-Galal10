@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🌱 I’m currently learning java backend development using Spring framework.
+💬 Ask me about Java, Spring.
+📫 Reach me: LinkedIn
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Ahmed-Galal10/Ahmed-Galal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
