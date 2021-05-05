@@ -4,7 +4,7 @@
 - 💬 Ask me about Java, Spring.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-galal10/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Galal10&count_private=true&show_icons=true&theme=cobalt&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Galal10&count_private=true&show_icons=true&theme=synthwave&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
