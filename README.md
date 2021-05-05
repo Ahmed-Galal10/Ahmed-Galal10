@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning java backend development using Spring framework.
+- 🌱 I’m currently learning Java backend development using Spring framework.
 - 💬 Ask me about Java, Spring.
-- 📫 Reach me:[LinkedIn](https://www.linkedin.com/in/ahmed-galal10/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-galal10/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Galal10&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
