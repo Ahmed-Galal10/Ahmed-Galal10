@@ -8,7 +8,7 @@
 <br>
 <hr />
 
-<br><br>
+<br>
 &nbsp; &nbsp; &nbsp; &nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Galal10&count_private=true&show_icons=true&theme=cobalt&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
