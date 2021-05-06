@@ -5,7 +5,7 @@
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-galal10/)
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Ahmed-Galal10/Ahmed-Galal10/blob/main/coder.png"><img src="https://github.com/Ahmed-Galal10/Ahmed-Galal10/blob/main/coder.png" align="right" width="30%" style="max-width:100%;"></a>
-
+<br>
 <hr />
 
 <br><br>
