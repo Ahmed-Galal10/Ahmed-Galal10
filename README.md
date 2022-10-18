@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Java backend development using Spring framework.
 - 💬 Ask me about Java, Spring.
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-galal10/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-galal-108223/)
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Ahmed-Galal10/Ahmed-Galal10/blob/main/coder.png"><img src="https://github.com/Ahmed-Galal10/Ahmed-Galal10/blob/main/coder.png" align="right" width="30%" style="max-width:100%;"></a>
 <hr />
